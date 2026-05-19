@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chandankumar-singh](https://www.linkedin.com/in/chandankumar-singh-05a21328b/">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/chandankumar-singh-05a21328b/">LinkedIn</a> ·
   <a href="mailto:chandankumarsingh8841@gmail.com">Email</a> ·
   Mumbai, India
 </p>
