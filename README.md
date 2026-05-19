@@ -53,9 +53,3 @@ Tools        →   Git, VS Code, Keil, STM32CubeIDE
 - 🌱 Learning: model optimization for constrained hardware, FastAPI, Docker
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChandanS07&show_icons=true&hide_border=true&theme=default" height="140"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanS07&layout=compact&hide_border=true&theme=default" height="140"/>
-</p>
